@@ -3,7 +3,7 @@
 > Workshop planning is a different skill than being able to teach the material.
 - Resources links
   - [Live Whiteboard](https://www.tldraw.com/r/-2ggtj3eH4QGmev5p3eZi?v=-20,669,1584,1709&p=page)
-  - [Whiteboard Pre-Workshop Snapshot](https://www.tldraw.com/s/v2_c_ifIq-gkU18KDyl-eDPhP2?v=-20,669,1584,1709&p=page)
+  - [Whiteboard Pre-Workshop Snapshot](https://www.tldraw.com/s/v2_c_CfYxEGiAGTJKPxTN0YlNh?v=-377,410,2036,2196&p=page)
 
 ## Learning Goals
 - [ ] Learn the process of workshop planning
