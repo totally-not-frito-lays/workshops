@@ -59,12 +59,17 @@ templating language
   - we can also do this with a `.js` file if we run `module.exports` for any API
 - data files (like `projects.11tydata.json`) can be done per file, per directory, or globally
   - `_data` is the default directory
+- you can permalink different urls with a `permalink` frontmatter
+  - this allows you to build a file in one place but maintain a specific url
 
 Liquid
 - the `-` in the `%-` is used to control whitepsace 
 `{%- for blog in collections.blog -%}`
 - if a front matter file doesn't exist, it gracefully places an empty
   - you can use a conditional to optionally remove elements
+- to prevent YAML injection attacks, wrap URL permalinks for paginated content 
+with ""
+  - ex: `permalink: "/characters/{{character.name | slug}}/"`
 
 
 Templates
@@ -84,26 +89,11 @@ Templates
 - hot reloads require templates to contain a body tag
 - templates are defined in `_includes/` by default
   - this behavior can be changed in `.eleventy.js`
-
 - can chain layouts together
-- you can permalink different urls with a `permalink` frontmatter
 
 APIs
-- axios is a promise-based http client for making requests
+- axios allows us to make http requests to other servers
 - async requests are only called once at build time
-- require can actually parse json!
-
-Globals
-- global data is only run once per build
-  - local data is run once per time it shows up
-- if have the dog api call in the global `_data` context, the API call happens 
-once per build
-  - if we have the dog api call in the local `projects.11tydata.js` it is called
-  uniquely for each time it's called in each iteration of the layouts template
-
-API inclusion
-- `permalink: "/characters/{{character.name | slug}}/"` we wrap in "" for YAML
-safety
 
 ---
 [^1]: [JAMStack](https://jamstack.org/)
