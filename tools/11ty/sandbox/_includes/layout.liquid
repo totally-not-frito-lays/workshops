@@ -3,20 +3,38 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2.0.6/css/pico.min.css">
+  <link rel="stylesheet" href="/assets/bundle.css">
   <title> {{ title }} </title>
 </head>
 <body>
   <header>
-    <a href="/">Home</a>
-    <a href="/characters">Characters</a>
+    <section class="container">
+      <a href="/">Home</a>
+    </section>
   </header>
+  
+  <main class="container">
+    {% if title %}
+      <h1>{{ title }}</h1>
+    {% endif %}
+    <section class="container">
+      {{ content }}
+    </section>
+  </main>
 
-  {% if title %}
-    <h1>{{ title }}</h1>
-  {% endif %}
-  {%- if dog %}
-    <img src="{{ dog }}" alt="doggo" width="200" height="200"/>
-  {%- endif %}
-  {{ content }}
+  <footer>
+    <article>
+      <section class="container">
+        {%- if socials -%}
+        <h6>Let's connect!</h6>
+          {% for link in socials %}
+
+            <a href="{{ link.url }}" class="secondary">{{ link.name }}</a>
+          {% endfor %}
+        {%- endif -%}
+      </section>
+    </article>
+  </footer>
 </body>
 </html>
