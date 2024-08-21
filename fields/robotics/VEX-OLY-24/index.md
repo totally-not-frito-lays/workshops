@@ -4,7 +4,7 @@
 
 Monarch School Robotics Summer Camp Workshop
 - 08.05.2024 -> 08.09.2024
-- 5 days x 10hrs of instruction
+- 5 days x 2hrs = 10hrs of instruction
 - ??? number of HS students
 
 Theme:
