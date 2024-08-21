@@ -196,14 +196,18 @@ Materials:
 - pool noodle padding
 
 Notes:
-- rock paper scissors style auto game
-- manual control
-- allowed to rebuilid their robot
+- rock paper scissors style auto game?
+- manual control?
+- allowed to rebuilid their robot?
 
-### Day 05 - Free choice / custom sport
+### Day 05 - Gymnastics / Breakdancing
 
 Learning Objective:
-- How to make a new game with autonomous and tele-op components
+- Create a controlled environment and cater an autonomous performance
+- Create a design that appeals to a user-base / crowd
+
+Student Objective:
+- Create a fully autonomous performance that is crowd scored
 
 Agenda:
 1. Closing ceremony
