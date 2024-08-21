@@ -83,9 +83,6 @@ Description:
   their current identity through art so that they can display their flag on 
   their robot.
 
-  The flag should contain some reference to the "Monarch Olympics" so that they
-  know that even if they're from different groups, they're all just people.
-
   Flags will be used to identify their robot kit. Flags should be expected to
   be attached to the robot in some form.
 
