@@ -40,6 +40,8 @@ General Notes:
   - teams will be paired together to form an alliance for team competitions[^5]
 - Students will be referred to as athletes at the camp
 - Changing small parts of the robot is expected
+- Each team has medals to give out for some reason, the robots amass these medals
+  - stickers or medals or flag decorations
 
 ## Schedule
 
@@ -70,7 +72,7 @@ Agenda:
 5. (30min) Soccer matches
 6. (10min) Award Ceremony + Clean-up
 
-#### Intra-National Flag Design[^2]
+#### Flag Design[^2]
 
 Materials:
   - (students x 2) A4 paper
@@ -86,6 +88,17 @@ Description:
   Flags will be used to identify their robot kit. Flags should be expected to
   be attached to the robot in some form.
 
+  Flags belong to the robots because they're the athletes. Imagine what country 
+  the robot is representing. ie. cat robot
+
+  The students are roleplaying as contracted engineers. Although they may work
+  together on a robot in one day, they may be working with a different engineer
+  the next day.
+
+  We can make two copies of the flag. One copy is a large copy that they can 
+  parade around (is used to identify where the robot materials are) and the 
+  other copy is a smaller flag used to ID the robot itself in the field.
+
 #### Opening Ceremony
 
 Materials:
@@ -94,6 +107,9 @@ Materials:
 Description:
   Have the athletes parade around as a pair waving their flags around the room.
   Welcome everybody to the 1st ever Monarch Robo-Olympics!
+
+  At the end of the parade, we all sit down, one group stays up and explains
+  what the flag represents.
 
 #### General summer camp rules
 
@@ -107,6 +123,9 @@ Rules:
 - Don't break your robot or somebody else's robot
 - Only run robots on the floor, not on the tables
 - Don't touch the robots while they're on
+
+Description
+  Students should sign a group contract (like on a whiteboard or large paper).
 
 #### Building robot
 
@@ -134,14 +153,19 @@ Description:
 #### Award ceremony
 
 Materials:
-- laser engraved medals
+- laser engraved medals?
+- stickers of medals?
 
 Description:
-  Points will be given to the winning teams. On the last day, they get first
-  dibs on closing ceremony food / prizes. Everybody recieves a medal for good
-  sportsmanship.
+  Students should be role playing as engineers that are contracted out to build
+  the best athlete for a country. Therefore the robots are the ones that recieve
+  medals, not the students.
 
 ### Day 02 - Robot Shotput + Basketball
+
+Description:
+  If we don't have enough time to run some soccer games on the first day, we can
+  push to the second day and replace shotput.
 
 Learning Objective:
 - Learn how to use their robot arm
@@ -182,7 +206,7 @@ Notes:
   robots in a straight line, so they can decide which legs of the race the robot
   does the handoff in
 
-### Day 04 - Sumo / Wrestling
+### Day 04 - Sumo / Wrestling 
 
 Learning Objective:
 - Center of gravity
@@ -205,6 +229,11 @@ Notes:
 Learning Objective:
 - Create a controlled environment and cater an autonomous performance
 - Create a design that appeals to a user-base / crowd
+- The crowd judges
+- They can pick whatever performance they have, then do the best at it
+- They set the challenge
+- Can be auto or tele-op
+- Can also do paired events
 
 Student Objective:
 - Create a fully autonomous performance that is crowd scored
@@ -219,3 +248,5 @@ Agenda:
 [^3]: [Olympics/Paris-24](https://olympics.com/en/paris-2024/the-games/the-brand/pictograms#olympic-pictograms)
 [^4]: [Robogames/Sports](https://robogames.net/events.php)
 [^5]: [FIRST/double_elim_bracket](https://www.firstinspires.org/sites/default/files/uploads/resource_library/frc/game-and-season-info/competition-manual/double_elimination_playoff_communication.pdf)
+[^6]: [VEX/educator-resources](https://kb.vex.com/hc/en-us/articles/10237033931028-VR-Educators-Start-Here)
+[^7]: [VEX/white-papers](https://www.vexrobotics.com/support/get-started/research)
