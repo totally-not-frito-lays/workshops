@@ -204,7 +204,15 @@ it would've been better to incentivize teams to keep themselves on track.*
 I had wanted to do a mini-challenge that the programmers would have to teach / 
 work with their team for but I was worried about their pacing for finishing
 their robots before the competition. At this stage, I was still hoping to 
-finish the robot soccer by Day 04.
+finish the robot soccer by Day 04. 
+
+Much to my surprise, a student who had previously been a troublemaker was very
+earnestly trying in the programming challenge, despite the perception that the
+rest of his team had in him. He was able to succeed in the challenge and 
+constantly needed my approval. While it's always a heartwarming experience
+for any student to succeed in a challenge and genuinely enjoy the problem-
+solving experience, in particular, it was especially rewarding to see this 
+student do so despite the reputation he had previously earned for himself.
 
 Student Accomplishments
 - First robot was finished
@@ -238,7 +246,14 @@ few days.
 
 The way I tried to resolve this was by asking them to work on some autonomous 
 modes. So I had brought a 6 foot stick and made a quick and dirty challenge
-course to challenge them to program their robot to score the goal.
+course to challenge them to program their robot to score the goal. This 
+challenge seemed well scoped for their ability and understanding and should've
+encouraged them to try to measure out how far they should move at each distance.
+Instead they approached it the naive way of restarting the process from scratch
+each time. If the whole class were participating then I would've hinted at the
+solution but the extra time helped so that I could work with the other students.
+The extension to this challenge was to lift a smaller ball and score a "bucket"
+then to score that "bucket" from further away.
 
 ![auto soccer practice](./assets/vex-oly-24-arena.png)
 
@@ -258,16 +273,71 @@ were rather sassy responding with something to the effect of "why should I help
 my opponents." I had a lecture that I began working on mentally but thankfully 
 despite their sassiness they still gave up the wiring diagram.
 
+Teams 01 / 02 were able to finish building their robot and with the extra time 
+that they had, I tasked them with the same autonomous challenge but they didn't 
+have enough time to finish the challenge by the end of this day.
+
+Student Accomplishments:
+- remaining teams finished their build
+
 Wells:
+- Good autonomous challenge
 
 Improves:
+- Should've pitched the parallelization idea sooner
 
+## Day 05 
 
----
+Summary:
 
-- day 03 first robot finished
-- practice driving it
-- day 04 autonomous coding
-- autonomous execution
-- day 05 competition day
-- remaining robots are finished
+On competition day, I started off the day by explicitly setting a hard deadline
+for when the competition would start (1 hour in). An important part of 
+competition day is making sure that batteries and controllers are charged. 
+The challenge now was balancing driver practice with battery life. While they
+were practicing, I invited team 03 to add in support for a vision sensor but
+they were being a handful to manage and were expecting a camera feed instead
+of a color / range sensor.
+
+Once it was right around game time, we reorganized the room and set up the 
+arena. Some other classes and students that were not in the class were invited 
+to spectate the soccer matches! 
+
+Unfortunately, a member of team 03 behaved in an inappropriate manner and 
+constantly made offensive gestures and remarks to the stage where he was no 
+longer listening to my authority. I had to escalate this up to the STEM program
+director to speak with him and although he denied this, he eventually stopped.
+
+Originally it was planned to have the director of the after school STEM 
+activities to pilot the instructor set but one of the teams not only had
+a technical bug with the controller being absolutely bricked, they also burned
+their battery to 0%. As a result, the instructor robot became the donor robot.
+
+When it came time for the matches, Team 02 dominated the games but completely
+burned out their battery as well. Team 01 had the least experience driving but
+actually shared the driving opportunity across different members. Team 03 put
+up a good fight but couldn't quite match up the finesse of Team 02.
+
+The rules that I had defined were roughly as follows:
+1. flipping / disabling other bots = penalty shot
+2. first to 3 in 3 minutes, or next to score in over time
+3. no people in the play field
+
+In hindsight, I should've had them rotate out their "pilots" after each match
+to make sure that they didn't let one pilot hog the controller and to be a bit
+more explicit about what kinds of audience participation was available (ie.
+for throw-ins or getting the ball out of corners).
+
+In the end the teams were all awarded some faux letter seal stickers take home
+or apply to their phone cases. In the case of having multiple events, I would've
+preferred to award the medals to robots instead, but since we only had the one
+event, I thought it was a reasonable adjustment to award the "engineers + 
+pilots" of each team instead.
+
+Student Accomplishments:
+- Everybody was able to compete and score a goal!
+
+Wells:
+- Game was very well attended and had everybody's attention
+
+Improves:
+- Better handling of disruptive and inappropriate behavior from students
