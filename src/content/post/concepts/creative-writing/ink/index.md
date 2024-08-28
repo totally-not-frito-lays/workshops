@@ -1,3 +1,10 @@
+---
+title: "Creative  Writing with Ink"
+description: "This post is purely for testing the table of content, which should not be rendered"
+publishDate: "22 Feb 2023"
+tags: ["test", "toc"]
+---
+
 # Creative Writing with Ink
 
 - think about what defines the thing you're building, and what the parameters are (ways that it can change). what is a human?

@@ -1,3 +1,9 @@
+---
+title: "Workshop of Workshops"
+description: "This post is purely for testing the table of content, which should not be rendered"
+publishDate: "22 Feb 2023"
+tags: ["test", "toc"]
+---
 
 # Workshop of Workshops
 > Aka. How to run workshops
