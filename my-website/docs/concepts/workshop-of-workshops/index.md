@@ -1,4 +1,3 @@
-
 # Workshop of Workshops
 > Aka. How to run workshops
 
@@ -58,17 +57,17 @@ Creative Coding
 
 Code Sandboxes
 - General purpose
-	- [Replit]()
-	- [Code Spaces]()
+	- [Replit]
+	- [Code Spaces]
 - Data Science
-	- [Google Collab]()
-	- [Deepnote]()
+	- [Google Collab]
+	- [Deepnote]
 - Python
 	- [Trinket](https://trinket.io/python)
 - Web
-	- [Codepen]()
-	- [StackBlitz]()
-	- [Glitch]()
+	- [Codepen]
+	- [StackBlitz]
+	- [Glitch]
 
 
 ## General workflow for workshops
