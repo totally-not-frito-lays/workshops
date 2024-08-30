@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@11ty/eleventy": "^2.0.1",
     "reveal.js": "^5.1.0"
   }
 }
