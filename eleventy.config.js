@@ -116,10 +116,10 @@ module.exports = function(eleventyConfig) {
 		],
 
 		// Pre-process *.md files with: (default: `liquid`)
-		markdownTemplateEngine: "njk",
+		markdownTemplateEngine: "liquid",
 
 		// Pre-process *.html files with: (default: `liquid`)
-		htmlTemplateEngine: "njk",
+		htmlTemplateEngine: "liquid",
 
 		// These are all optional:
 		dir: {

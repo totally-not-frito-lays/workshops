@@ -1,3 +1,9 @@
+---
+layout: layouts/layout.liquid
+# layout: layouts/base.njk
+
+---
+
 # VEX Olympics 2024
 
 ## About
