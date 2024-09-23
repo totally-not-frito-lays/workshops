@@ -27,7 +27,7 @@ By the end of the entire workshop series / lesson plan, attendees will be able t
 - introduction to templating languages
   - use liquid
   - designing resusable components
-- build a basic JAMstack website using 11ty
+- build a basic JAMstack website using 11ty / astro
   - 11ty architecture
   - use front matter to share information between a markdown file and a webpage
   - pagination
@@ -35,7 +35,7 @@ By the end of the entire workshop series / lesson plan, attendees will be able t
   - i18n
   - programmatic API
   - customize a pre-built 11ty template for their own use case
-    - how to read other people's 11ty projects
+    - how to read other people's 11ty / astro projects
 - deployment with GitHub Actions
 
 ## Roadmap
@@ -45,7 +45,7 @@ By the end of the entire workshop series / lesson plan, attendees will be able t
 - What is a JAMStack website
   - Building your first JAMStack website with no code!
   - Picking a website tech stack to start with!
-  - Comparing JAMstack websites to other website builders (why start with 11ty)
+  - Comparing JAMstack websites to other website builders (why start with 11ty / astro)
   - Vanilla vs JAMStack
 - Mapping out the learning path for mastering the JAMStack pattern
   - tour roadmaps.sh
@@ -65,13 +65,13 @@ By the end of the entire workshop series / lesson plan, attendees will be able t
   - Front matter review
 - Helpful libraries to include / learn / know
   - bootstrap vs picocss vs tailwind
-  - component frameworks and 11ty (its kinda better with astro, gatsby, etc.)
+  - component frameworks and JAMstack
   - vite
   - jsdoc / documentation generators
 
 ### Day 3
 
-- advanced 11ty features
+- advanced SSG features
   - pagination
   - pages from data
     - (optional) building and running your own data
