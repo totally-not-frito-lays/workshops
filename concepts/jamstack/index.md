@@ -28,7 +28,7 @@ By the end of the entire workshop series / lesson plan, attendees will be able t
   - use liquid
   - designing resusable components
 - build a basic JAMstack website using 11ty / astro
-  - 11ty architecture
+  - 11ty architecture vs astro architecture
   - use front matter to share information between a markdown file and a webpage
   - pagination
   - layout chaining
@@ -43,7 +43,7 @@ By the end of the entire workshop series / lesson plan, attendees will be able t
 ### Day 1
 
 - What is a JAMStack website
-  - Building your first JAMStack website with no code!
+  - Building your first JAMStack website with no code! (11ty)
   - Picking a website tech stack to start with!
   - Comparing JAMstack websites to other website builders (why start with 11ty / astro)
   - Vanilla vs JAMStack
@@ -81,3 +81,6 @@ By the end of the entire workshop series / lesson plan, attendees will be able t
 - Deployment
   - CI/CD pipeline general
   - GitHub Actions Crash Course
+- What's next
+  - Comparing 11ty and Astro (building a quick one with astro)
+  - Reviewing some cool learning resources
