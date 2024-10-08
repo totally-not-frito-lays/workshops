@@ -1,5 +1,7 @@
 # Workshop Day 01
 
+[Workshop link](https://github.com/totally-not-frito-lays/ghw-jamstack-resources)
+
 ## Intro - Whoami
 
 - I am a Coach @MLH
@@ -113,3 +115,13 @@ Resource
 
 ## Building our own JAMstack website
 
+- Design a documentation site for an open source project
+  - introduction page / landing page
+  - getting started
+    - installation
+    - setup
+  - user guide
+  - features
+  - contributing
+  - FAQ
+  - Appendix
